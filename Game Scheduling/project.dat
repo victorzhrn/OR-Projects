@@ -1,0 +1,3 @@
+set days:= weekday weekend;
+
+set gametype := home away;
